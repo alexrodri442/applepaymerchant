@@ -1,5 +1,0 @@
-{
-  "merchantIdentifier": <MERCHANT_IDENTIFIER_STRING>,
-  "initiativeContext": <MERCHANT FQDN>,
-  "displayName": <MERCHANT NAME>
-}
